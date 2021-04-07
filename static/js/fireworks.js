@@ -1,3 +1,4 @@
+//点击爆炸特效
 function updateCoords(e) {
     pointerX = (e.clientX || e.touches[0].clientX) - canvasEl.getBoundingClientRect().left,
     pointerY = e.clientY || e.touches[0].clientY - canvasEl.getBoundingClientRect().top
