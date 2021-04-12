@@ -32,7 +32,7 @@ function createCircle(e, t) {
     var a = {};
     return a.x = e,
     a.y = t,
-    a.color = "#F00",
+    a.color = "#d3f4ff",
     a.radius = .1,
     a.alpha = .5,
     a.lineWidth = 6,
